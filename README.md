@@ -1,2 +1,2 @@
-# Court-Counter
-Practice Set 2 Udacity Challenge
+# Soccer App
+Project 2 Udacity Challenge
